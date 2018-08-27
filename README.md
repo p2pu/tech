@@ -7,7 +7,7 @@
 ## Sysadmin
 
 - [Marvin](https://github.com/p2pu/marvin) - repository for ansible recipes
-- [Letsencryp SSL notes](https://paper.dropbox.com/doc/Sysadmin-SSL-using-LetsEncrypt-UD0DKooiMMVWIiWM0gNmy)
+- [Letsencrypt SSL notes](https://paper.dropbox.com/doc/Sysadmin-SSL-using-LetsEncrypt-UD0DKooiMMVWIiWM0gNmy)
 - https://docs.google.com/document/d/1e8tZoo7BrZYygBEgirtBeK4wjJOdE2LvSkajgEOeojs/edit
 - https://docs.google.com/document/d/18CO2yAvjD_mk8GbJUBlSyNtaRkFn3biInsyf0E8_PCA/edit
 
