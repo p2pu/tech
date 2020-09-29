@@ -4,7 +4,6 @@
 ## What we’re working on
  - [General prioritized](https://github.com/orgs/p2pu/projects/4)
  - [P2PU Roadmap](https://docs.google.com/document/d/1RHfv68siEVY2R1VpFtTjW74NkguQnbvaz-zJeACe8jg/edit)
-    - Tech planning 2020
  - [Tech call notes](https://docs.google.com/document/d/17ZWndqIlppfHWPfhSi3jkwOZytJSpZaM6a3ZgVoXIRA/edit)
  - [Google drive folder](https://drive.google.com/drive/u/1/folders/0B7og5r-ukGUiMnJlaEtUZ0FJNjA)
 
