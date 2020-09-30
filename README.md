@@ -7,7 +7,7 @@ At the end of the document there are links to some meta-level documentation/
 ## What we’re working on
  - The [general prioritized](https://github.com/orgs/p2pu/projects/4) project contains GitHub issues we are working on right now.
  - We keep [notes of our weekly tech call](https://docs.google.com/document/d/17ZWndqIlppfHWPfhSi3jkwOZytJSpZaM6a3ZgVoXIRA/edit) 
- - The [P2PU Roadmap](https://docs.google.com/document/d/1RHfv68siEVY2R1VpFtTjW74NkguQnbvaz-zJeACe8jg/edit) shows, short and medium term plans for the whole of P2PU
+ - The [P2PU Roadmap](https://docs.google.com/document/d/1RHfv68siEVY2R1VpFtTjW74NkguQnbvaz-zJeACe8jg/edit) shows short and medium term plans for the whole of P2PU
  - The [Google drive folder](https://drive.google.com/drive/u/1/folders/0B7og5r-ukGUiMnJlaEtUZ0FJNjA) contains several documents that may not be listed here.
 
 ## Overview
