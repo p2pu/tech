@@ -40,7 +40,6 @@ The most important projects are we working on on a regular basis are the P2PU ho
 - Discourse - https://discourse.p2pu.org
 
 ## Guides and best practices
-P2PU dev checklist
 - [Development guide](https://docs.google.com/document/d/1aoQ8leLNKbUdCN-SGWLNkZOfwOQ2kWKBV6H0hnwPQvQ/edit)
 - [Sysadmin guide](https://docs.google.com/document/d/1e8tZoo7BrZYygBEgirtBeK4wjJOdE2LvSkajgEOeojs/edit)
 - [Voice and tone](https://docs.google.com/document/d/1v7UiCw9i0sE6XcxxhgCJUs97-1gxV2Gsky1BOMQ_b5w/edit)
