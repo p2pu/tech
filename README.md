@@ -18,13 +18,13 @@ The most important projects are we working on on a regular basis are the P2PU ho
 ![diagram of services](tech-overview.svg)
 
 ### Active projects
-- P2PU homepage: This is our home on the web, live at [www.p2pu.org](https://www.p2pu.org). [GitHub](https://github.com/p2pu/p2pu-website/)
-- Learning circles: Implements the logic and backend for our learning circles management system. This includes facilitator and organizer dashboard, learning circle management pages and team stats/management pages. It also provides an API that is used by the home page and team pages. [GitHub](https://github.com/p2pu/learning-circles/)
-- Team pages: These micro-sites give an opportunity for reams to contextualize learning circles for participants and facilitators. It also integrates with the API. [GitHub](https://github.com/p2pu/erasmus-partner-site/)
-- Course-in-a-box: Is our internal, but also shared tool for creating course like sites. It's live at [course-in-a-box.p2pu.org](https://course-in-a-box.p2pu.org). [GitHub](https://github.com/p2pu/course-in-a-box/)
-- p2pu-components: This is a component library that we use to build our interactive React frontends. [GitHub](https://github.com/p2pu/p2pu-components/)
-- p2pu-theme: This is our customized Bootstrap theme used on all our web properties. [GitHub](https://github.com/p2pu/p2pu-theme)
-- Wordpress theme: Our custom Wordpress theme that utilizes p2pu-theme. [GitHub](https://github.com/p2pu/P2PUfourteen-wp-theme)
+- **P2PU homepage**. This is our home on the web, live at [www.p2pu.org](https://www.p2pu.org). [GitHub](https://github.com/p2pu/p2pu-website/)
+- **Learning circles**. Implements the logic and backend for our learning circles management system. This includes facilitator and organizer dashboard, learning circle management pages and team stats/management pages. It also provides an API that is used by the home page and team pages. [GitHub](https://github.com/p2pu/learning-circles/)
+- **Team pages**. These micro-sites give an opportunity for reams to contextualize learning circles for participants and facilitators. It also integrates with the API. [GitHub](https://github.com/p2pu/erasmus-partner-site/)
+- **Course-in-a-box**. Is our internal, but also shared tool for creating course like sites. It's live at [course-in-a-box.p2pu.org](https://course-in-a-box.p2pu.org). [GitHub](https://github.com/p2pu/course-in-a-box/)
+- **p2pu-components**. This is a component library that we use to build our interactive React frontends. [GitHub](https://github.com/p2pu/p2pu-components/)
+- **p2pu-theme**. This is our customized Bootstrap theme used on all our web properties. [GitHub](https://github.com/p2pu/p2pu-theme)
+- **Wordpress theme**. Our custom Wordpress theme that utilizes p2pu-theme. [GitHub](https://github.com/p2pu/P2PUfourteen-wp-theme)
 
 ### 3rd Party
 - Wordpress - we use a Wordpress instance hosted on Dreamhost
@@ -32,13 +32,13 @@ The most important projects are we working on on a regular basis are the P2PU ho
 - Etherpad - we also run a etherpad-lite instance for short-lived notes. See [marvin](https://github.com/p2pu/marvin/)
 
 ### Legacy
-- Lernanta - [GitHub](https://github.com/p2pu/lernanta)
-- Badges - [GitHub](https://github.com/p2pu/badges)
-- Mechanical MOOC - [GitHub](https://github.com/p2pu/mechanical-mooc)
-- Archive - [GitHub](https://github.com/p2pu/archive)
+- Lernanta - An old course platform we've build. We're still hosting it as a Django app, but we'll transform it to static pages at some stage. Live at [courses.p2pu.org](https://courses.p2pu.org). [GitHub](https://github.com/p2pu/lernanta)
+- Discourse - Course discussion forum, still hosted at [discourse.p2pu.org](https://discourse.p2pu.org).
+- Badges - A badge platform for project based learning. Live at (badges.p2pu.org)(https://badges.p2pu.org). [GitHub](https://github.com/p2pu/badges)
+- Mechanical MOOC - Old experiement in running a low cost MOOC. It was good at sequencing content. [GitHub](https://github.com/p2pu/mechanical-mooc)
+- Archive - Older applications hosted at [archive.p2pu.org](https://archive.p2pu.org/) as static files. [GitHub](https://github.com/p2pu/archive)
 - Reports - [GitHub](https://github.com/p2pu/reports)
 - Data - [GitHub](https://github.com/p2pu/data)
-- Discourse - https://discourse.p2pu.org
 
 ## Guides and best practices
 - [Development guide](https://docs.google.com/document/d/1aoQ8leLNKbUdCN-SGWLNkZOfwOQ2kWKBV6H0hnwPQvQ/edit)
