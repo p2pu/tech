@@ -18,13 +18,13 @@ The most important projects are we working on on a regular basis are the P2PU ho
 ![diagram of services](tech-overview.svg)
 
 ### Active projects
-- **P2PU homepage**. This is our home on the web, live at [www.p2pu.org](https://www.p2pu.org). [GitHub](https://github.com/p2pu/p2pu-website/)
-- **Learning circles**. Implements the logic and backend for our learning circles management system. This includes facilitator and organizer dashboard, learning circle management pages and team stats/management pages. It also provides an API that is used by the home page and team pages. [GitHub](https://github.com/p2pu/learning-circles/)
-- **Team pages**. These micro-sites give an opportunity for reams to contextualize learning circles for participants and facilitators. It also integrates with the API. [GitHub](https://github.com/p2pu/erasmus-partner-site/)
-- **Course-in-a-box**. Is our internal, but also shared tool for creating course like sites. It's live at [course-in-a-box.p2pu.org](https://course-in-a-box.p2pu.org). [GitHub](https://github.com/p2pu/course-in-a-box/)
-- **p2pu-components**. This is a component library that we use to build our interactive React frontends. [GitHub](https://github.com/p2pu/p2pu-components/)
-- **p2pu-theme**. This is our customized Bootstrap theme used on all our web properties. [GitHub](https://github.com/p2pu/p2pu-theme)
-- **Wordpress theme**. Our custom Wordpress theme that utilizes p2pu-theme. [GitHub](https://github.com/p2pu/P2PUfourteen-wp-theme)
+- **P2PU homepage** ([GitHub](https://github.com/p2pu/p2pu-website/)). This is our home on the web, live at [www.p2pu.org](https://www.p2pu.org).
+- **Learning circles** ([GitHub](https://github.com/p2pu/learning-circles/)). Implements the logic and backend for our learning circles management system. This includes facilitator and organizer dashboard, learning circle management pages and team stats/management pages. It also provides an API that is used by the home page and team pages. 
+- **Team pages** ([GitHub](https://github.com/p2pu/erasmus-partner-site/)). These micro-sites give an opportunity for reams to contextualize learning circles for participants and facilitators. It also integrates with the API.
+- **Course-in-a-box** ([GitHub](https://github.com/p2pu/course-in-a-box/)). Is our internal, but also shared tool for creating course like sites. It's live at [course-in-a-box.p2pu.org](https://course-in-a-box.p2pu.org).
+- **p2pu-components** ([GitHub](https://github.com/p2pu/p2pu-components/)). This is a component library that we use to build our interactive React frontends.
+- **p2pu-theme** ([GitHub](https://github.com/p2pu/p2pu-theme)). This is our customized Bootstrap theme used on all our web properties. 
+- **Wordpress theme** ([GitHub](https://github.com/p2pu/P2PUfourteen-wp-theme)). Our custom Wordpress theme that utilizes p2pu-theme.
 
 ### 3rd Party
 - Wordpress - we use a Wordpress instance hosted on Dreamhost
