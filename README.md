@@ -1,6 +1,6 @@
 # Technology at P2PU
 
-This document is intended as an overview for anyone interested in using or contributing to the software tools we develop and host at P2PU. Detailed documentation for each project reside in its GitHub respository.
+This document provides an overview for anyone interested in using or contributing to the software tools we develop and host at P2PU. Detailed documentation for each project resides in its GitHub respository.
 
 At the end of the document, there are links to some meta-level documentation.
 
