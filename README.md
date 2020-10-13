@@ -41,19 +41,10 @@ The most important projects are we working on on a regular basis are the P2PU ho
 - **Data** ([GitHub](https://github.com/p2pu/data)) ([data.p2pu.org](https://data.p2pu.org)) - Anonymised data shared for research purposes.
 
 ## Guides and best practices
+- [Tech strategy](https://docs.google.com/document/d/1zHow9ohcAIPVibsgzvuWv0Pcca6XNwQ2SrdNhfGswo0/edit#)
+- [Learning Circle tools](https://docs.google.com/document/d/15bH1j5BF5sFDGFbMs0a9nvFAHkVc8MUSlOPIsx4CnNM/edit#heading=h.tk6kvxcllzvg)
 - [Development guide](https://docs.google.com/document/d/1aoQ8leLNKbUdCN-SGWLNkZOfwOQ2kWKBV6H0hnwPQvQ/edit)
 - [Sysadmin guide](https://docs.google.com/document/d/1e8tZoo7BrZYygBEgirtBeK4wjJOdE2LvSkajgEOeojs/edit)
 - [Voice and tone](https://docs.google.com/document/d/1v7UiCw9i0sE6XcxxhgCJUs97-1gxV2Gsky1BOMQ_b5w/edit)
 - [Design guidelines and assets](https://github.com/p2pu/design)
 - [Notes on EdTech tools](https://github.com/p2pu/notes-on-edtech)
-- [Tech strategy](https://docs.google.com/document/d/1zHow9ohcAIPVibsgzvuWv0Pcca6XNwQ2SrdNhfGswo0/edit#)
-- [Learning Circle tools](https://docs.google.com/document/d/15bH1j5BF5sFDGFbMs0a9nvFAHkVc8MUSlOPIsx4CnNM/edit#heading=h.tk6kvxcllzvg)
-- How we know it works
-   - We are achieving desired P2PU outcomes
-   - People are using what we build and host
-      - Google Analytics
-      - https://p2pu-furrystats.herokuapp.com/
-   - People are talking about what we build
-      - [Tech Impact](https://docs.google.com/spreadsheets/d/1-Zgwm4xBvhnv_jWynPm9PsMmPpJx4jswC2FyNuCPRw4/edit#gid=0)
-   - People are repurposing what we build
-      - [GitHub repos + forks](https://docs.google.com/spreadsheets/d/1aPj2Xv6mUSxLN-FTlnZEH60ioF5vhbbgBNA0_-wLjWE/edit#gid=0)
