@@ -40,4 +40,3 @@ The most important projects are we working on on a regular basis are the P2PU ho
 - [Sysadmin guide](https://docs.google.com/document/d/1e8tZoo7BrZYygBEgirtBeK4wjJOdE2LvSkajgEOeojs/edit)
 - [Voice and tone](https://docs.google.com/document/d/1v7UiCw9i0sE6XcxxhgCJUs97-1gxV2Gsky1BOMQ_b5w/edit)
 - [Design guidelines and assets](https://github.com/p2pu/design)
-- [Notes on EdTech tools](https://github.com/p2pu/notes-on-edtech)
