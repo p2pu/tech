@@ -27,7 +27,7 @@ The most important projects are we working on on a regular basis are the P2PU ho
 ### Legacy
 - **Lernanta** ([GitHub](https://github.com/p2pu/lernanta)) ([courses.p2pu.org](https://courses.p2pu.org)) - An old course platform we've build. We're still hosting it as a Django app, but we'll transform it to static pages at some stage.
 - **Course forum** ([discourse.p2pu.org](https://discourse.p2pu.org)) - Discourse forum for course discussions.
-- **Badges** ([GitHub](https://github.com/p2pu/badges)) ((badges.p2pu.org)(https://badges.p2pu.org)) - A badge platform for project based learning.
+- **Badges** ([GitHub](https://github.com/p2pu/badges)) ([badges.p2pu.org](https://badges.p2pu.org)) - A badge platform for project based learning.
 - **Mechanical MOOC** ([GitHub](https://github.com/p2pu/mechanical-mooc)) ([mechanicalmooc.org](http://mechanicalmooc.org)) - Old experiement in running a low cost MOOC. It was good at sequencing content.
 - **Archive** ([GitHub](https://github.com/p2pu/archive)) ([archive.p2pu.org](https://archive.p2pu.org/)) - Drupal applications used to run courses. Hosted as static files.
 - **Reports** ([GitHub](https://github.com/p2pu/reports)) ([reports.p2pu.org](https://reports.p2pu.org/)) - Takeaways from things P2PU did in the past.
